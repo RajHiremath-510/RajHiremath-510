@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**RajHiremath-510/RajHiremath-510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Rajshekhar S Hiremath  
 
-Here are some ideas to get you started:
+**A passionate VLSI & Physical Design Engineer from India 🇮🇳**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Advanced Physical Design  
+- 🛠 I’m currently working on RTL to GDS-II flow using OpenLane and Synopsys tools  
+- 💻 All of my projects are available on GitHub  
+- 💬 Ask me about OpenLane, Physical Design flow, Synthesis, and VLSI job preparation  
+- 📸 Reach out to me at raj.hiremath2004@gmail.com  
+- ⚡ Fun fact – I like sharing VLSI concepts in a simple way from my learning experience  
+
+---
+
+### TCL, Linux, and Gvim  
+
+Synopsys | OpenLane | Yosys
