@@ -1,18 +1,26 @@
-# Hi 👋
+Hi 👋
+I’m Rajshekhar S Hiremath
 
-## I'm Rajshekhar S Hiremath  
+VLSI | Physical Design Engineer | RTL-to-GDSII Enthusiast 🇮🇳
 
-**A passionate VLSI & Physical Design Engineer from India 🇮🇳**
+🌱 Currently deepening my skills in Advanced Physical Design
 
-- 🌱 I’m currently learning Advanced Physical Design  
-- 🛠 I’m currently working on RTL to GDS-II flow using Synopsys tools and OpenLane 
-- 💻 All of my projects are available on GitHub  
-- 💬 Ask me about Physical Design flow, Synthesis, OpenLane and VLSI job preparation  
-- 📸 Reach out to me at raj.hiremath2004@gmail.com  
-- ⚡ Fun fact – I like sharing VLSI concepts in a simple way from my learning experience  
+🛠 Hands-on experience with complete RTL-to-GDSII flow using Synopsys tools and OpenLane
 
----
+💻 Actively building and documenting VLSI & Physical Design projects on GitHub
 
-### TCL, Linux, and Gvim  
+🌐 Check out my work & portfolio: https://rajhiremath-portfolio.lovable.app/
 
-Synopsys | OpenLane | Yosys
+💬 Happy to discuss Physical Design flow, Synthesis, OpenLane, and VLSI job preparation
+
+📧 Reach me at raj.hiremath2004@gmail.com
+
+⚡ Fun fact: I enjoy explaining VLSI concepts in a simple and practical way, based on real learning experience
+
+🧰 Technical Stack
+
+Languages & Tools:
+TCL | Linux | GVim
+
+EDA & Flow Experience:
+Synopsys (DC, ICC2, PrimeTime) | OpenLane | Yosys
